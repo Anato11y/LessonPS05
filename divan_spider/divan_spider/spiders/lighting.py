@@ -1,6 +1,5 @@
 import scrapy
 
-
 class LightingSpider(scrapy.Spider):
     name = "lighting"
     allowed_domains = ["divan.ru"]
